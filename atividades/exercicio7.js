@@ -1,0 +1,4 @@
+mercadoria = 1;
+for (let mercadoria = 1; mercadoria <= 10; mercadoria++ ){
+    console.log("mercadoria: " + mercadoria);
+}
