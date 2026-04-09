@@ -5,3 +5,4 @@ if(nomes.includes["saymon"] = true){
 else{
     console.log("nome não localizado no sistema")
 }
+ 
