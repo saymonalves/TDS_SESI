@@ -11,3 +11,4 @@ console.log(possuiCupom+"\n"+clienteNome+"\n"+clienteIdade);
 function processarVenda(valorTotal, cupomAtivo, quantidadeIntens) {
     console.log(`$(valorTotal) - $(cupomAtivo)`);
 }
+
